@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fuc:home|Door43 (fuc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fuc|d43-fuc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fuc/archive/master.zip|d43-fuc.zip]]
+
+**Recent Changes**
+{{changes>ns = fuc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fuc|Ethnologue data]]
+
